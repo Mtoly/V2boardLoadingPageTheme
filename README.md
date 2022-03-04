@@ -10,3 +10,5 @@ bug:已知v2board用户登录掉了之后跳转不到登录界面需要自行修
 
 
 预览:  ![](Screenshot_20220219-023942.png)
+![](Screenshot_20220219-023933.png)
+![](Screenshot_20220219-023920.png)
