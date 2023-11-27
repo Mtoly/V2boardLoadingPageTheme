@@ -1,4 +1,5 @@
 # V2boardLoadingPageTheme
+23.11.27 丢文件了，没传完。。。。
 v2board面板的落地页主题，修改自whmcs主题
 
 下载压缩包上传到public目录
